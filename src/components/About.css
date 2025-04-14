@@ -1,0 +1,19 @@
+.about{
+    padding: 5rem 2rem;
+    text-align: center;
+}
+ul{
+    list-style-type: none;
+}
+h2{
+    color: #ffffff;
+    font-size: 2.5rem;
+}
+p{
+    color: #cccccc;
+}
+.skills-list{
+    display: flex;
+    flex-wrap: wrap;
+ 
+}
